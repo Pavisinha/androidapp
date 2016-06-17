@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5050a45206cca3c667f5e77ced2f02c87a56033c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_4ac1bfdb060ea15416127bc9589f9fa44bb089d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_4e5fcd674beda62c37cb347a927fb4ba3970985d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a15d8010cdb4900170b480710ab63fce7249df6e">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0b0b4eee80eb9ab142e481c89c0d4e2424a70796\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_675f5c97859a44588a30353fe8a5dfe37e52bdac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_19d107d376c03206f76124bcda360e8ea88a31a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aff6fadb2c711279ac69b240172e7ca0d5a264df">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_97f82404618a855894016e8b748f2d1f9fb95294\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\pavitrasinha\AndroidStudioProjects\Swp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a265ff114b3df338681a5ca1055ce02544ebbd72\classes.dex" />
+    </item>
+
+</items>
